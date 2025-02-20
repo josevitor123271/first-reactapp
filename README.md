@@ -48,6 +48,7 @@ export default tseslint.config({
   },
 })
 ```
+> Step by step :D
 ```
 (base) aluno@aluno-caang:~/teads_project$ bun add tailwind @tailwindcss/vite
 bun add v1.2.2 (c1708ea6)
