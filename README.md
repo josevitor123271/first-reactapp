@@ -48,6 +48,9 @@ export default tseslint.config({
   },
 })
 ```
+## Bun: The Package Management
+
+### Let's use bun package management
 
 ```
 First of all, go to the Bun documentation and choose your operating system
