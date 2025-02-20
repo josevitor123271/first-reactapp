@@ -51,7 +51,7 @@ export default tseslint.config({
 ## Bun: The Package Management
 
 ### Let's use bun package management
-
+Follow the steps below with the Linux Mint operating system
 ```
 First of all, go to the Bun documentation and choose your operating system
 # https://bun.sh/docs/installation
