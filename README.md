@@ -50,7 +50,8 @@ export default tseslint.config({
 ```
 
 ```
-Step by step :D
+First of all, go to the Bun documentation and choose your operating system
+# https://bun.sh/docs/installation
 ```
 
 ```
@@ -132,7 +133,7 @@ node_modules      README.md          tsconfig.node.json
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
   ➜  press h + enter to show help
-  
+
 (base) aluno@aluno-caang:~/teads_project$ bun install
 bun install v1.2.2 (c1708ea6)
 
