@@ -132,7 +132,7 @@ node_modules      README.md          tsconfig.node.json
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
   ➜  press h + enter to show help
-^[[1;2D^C
+  
 (base) aluno@aluno-caang:~/teads_project$ bun install
 bun install v1.2.2 (c1708ea6)
 
