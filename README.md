@@ -101,7 +101,7 @@ Done. Now run:
   bun install
   bun run dev
 
-(base) aluno@aluno-caang:~/teads_project$ npm install
+(base) aluno@aluno-caang:~/teads_project$ bun install
 
 added 180 packages, and audited 181 packages in 37s
 
