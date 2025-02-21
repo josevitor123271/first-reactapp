@@ -52,10 +52,9 @@ export default tseslint.config({
 
 ### Let's use bun package management
 Follow the steps below with the Linux Mint operating system
-```
-First of all, go to the Bun documentation and choose your operating system
-# https://bun.sh/docs/installation
-```
+
+### First of all, go to the Bun documentation and choose your operating system
+https://bun.sh/docs/installation
 
 ```
 (base) aluno@aluno-caang:~/teads_project$ bun add tailwind @tailwindcss/vite
