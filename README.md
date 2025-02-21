@@ -56,6 +56,8 @@ Follow the steps below with the Linux Mint operating system
 ### First of all, go to the Bun documentation and choose your operating system
 https://bun.sh/docs/installation
 
+### Step by step
+
 ```
 (base) aluno@aluno-caang:~/teads_project$ bun add tailwind @tailwindcss/vite
 bun add v1.2.2 (c1708ea6)
