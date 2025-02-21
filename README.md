@@ -60,7 +60,7 @@ https://bun.sh/docs/installation
 
 Run this command
 ```
-Run the "Bun init" command after installation
+Run the "bun init" command after installation
 ```
 ### Step by step
 
